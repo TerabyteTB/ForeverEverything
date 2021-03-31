@@ -1,4 +1,6 @@
 # ForeverEverything
+## Badges
+![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/TerabyteTB/ForeverEverything?logo=cirrus-ci)
 
 This is a Minecraft Mod still in dev.
 
