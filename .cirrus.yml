@@ -1,0 +1,5 @@
+task:
+  name: Cirrus CI
+  container:
+    image: gradle:latest
+  test_script: gradle test
