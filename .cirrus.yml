@@ -2,4 +2,4 @@ task:
   name: Cirrus CI
   container:
     image: gradle:latest
-  test_script: gradle :compile
+  test_script: gradle :compileJava
